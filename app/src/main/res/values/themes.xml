@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema base con soporte para Action Bar en ambos modos -->
+    <style name="Base.Theme.Activity1_Mod2" parent="Theme.AppCompat.Light.NoActionBar">
+    <!-- Personaliza aquí los colores si lo deseas -->
+
+    </style>
+
+    <style name="Theme.Activity1_Mod2" parent="Base.Theme.Activity1_Mod2" />
+</resources>

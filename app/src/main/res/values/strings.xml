@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Activity1_Mod2</string>
+    <string name="form_title">Llene el formulario a continuación:</string>
+    <string name="form_indication">Seleccione su fecha de nacimiento:</string>
+    <string name="form_et_nombre">Nombre</string>
+    <string name="form_et_telefono">Teléfono</string>
+    <string name="form_et_email">Email</string>
+    <string name="form_et_descripcion">Descripción</string>
+    <string name="form_bt">Siguiente</string>
+    <string name="confirmation_title">Confirmar Datos</string>
+    <string name="confirmation_name">Nombre</string>
+    <string name="confirmation_date">Fecha Nacimiento</string>
+    <string name="confirmation_telephone">Tel</string>
+    <string name="confirmation_email">Email</string>
+    <string name="confirmation_description">Descripción</string>
+    <string name="confirmation_descrip_text">Contenido descripción</string>
+    <string name="confirmation_bt">Editar Datos</string>
+</resources>
